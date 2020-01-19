@@ -1,5 +1,3 @@
- //this em funções js muda de acordo com o contexto. Entretanto, se forem arrow functions, não varia.
-
 const pessoa = {
     saudacao: 'Bom dia!',
     falar() {
