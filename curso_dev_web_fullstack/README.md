@@ -1,5 +1,6 @@
+Necessário instalar: node, vscode com plugin code runner.
+
 Descrição do curso:
-"Descrição do curso:
 "Você quer se tornar um Desenvolvedor FullStack em JavaScript com ES6/Next e Node.js!?
 
 Te digo uma coisa: Você está no lugar certo! Eu tenho as ferramentas necessárias para isso. Neste curso você terá a oportunidade de desenvolver junto comigo uma Aplicação Web SPA Completa!
