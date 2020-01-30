@@ -1,3 +1,5 @@
+//require é utilizado para exportar conteúdos de outro arquivo. Não é necessário .js na extensão
+
 const moduloA = require('./moduloA')
 const moduloB = require('./moduloB')
 
